@@ -4,8 +4,8 @@ Krátký odkaz na stažení: [is.gd/lekce8](https://is.gd/lekce8)
 
 ## Příklady
 
-- [Layout](01-layout)
-- [CSS Variables](02-variables)
+- [Layout](priklady/01-layout)
+- [CSS Variables](priklady/02-variables)
 
 ## Odkazy
 
